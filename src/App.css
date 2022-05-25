@@ -1,5 +1,14 @@
 .App {
   text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.foods{
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  margin: 50px;
 }
 
 .App-logo {
